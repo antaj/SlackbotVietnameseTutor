@@ -18,6 +18,8 @@ group :assets do
   # gem 'therubyracer', :platforms => :ruby
 
   gem 'uglifier', '>= 1.0.3'
+  gem 'dotenv-rails'
+  gem 'slack-ruby-bot'
 end
 
 gem 'jquery-rails'
