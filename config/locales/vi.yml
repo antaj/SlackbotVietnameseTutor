@@ -1,2 +1,2 @@
 vi:
-  hello: "Xin chào %{user}"
+  hello: "Xin chào <@%{user}>"
